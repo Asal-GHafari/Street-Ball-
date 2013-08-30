@@ -3,7 +3,7 @@ Street-Ball
 
 ##Manager:
 
-Farzane GHafari
+*Farzane GHafari
 
 ## TECHNOLOGY
 
