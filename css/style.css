@@ -1,0 +1,56 @@
+body{
+	background:url(../pic/q2.jpg) left no-repeat, url(../pic/q.jpg) -20px ;
+}
+div.content	{
+	width:1000px;
+	margin:0 auto;
+}
+div.header	{
+	width:auto;
+	height:30px;
+}
+div.mainpanel	{
+	width:auto;
+	height:700px;
+}
+div.mainpanel > div.earth	{
+	width:900px;
+	height:700px;	
+	margin:0 auto;
+	background-color:#F60;
+}
+div.mainpanel > div.earth > div.line3	{
+	width:852px;
+	height:400px;
+	margin:0 auto;
+	border-bottom-left-radius:3400px;
+	border-bottom-right-radius:3400px;
+}
+div.mainpanel > div.earth > div.line3 > div.penalty	{
+	width:185px;
+	height:220px;
+	margin:0 auto;
+}
+div.mainpanel > div.earth > div.line3 > div.penalty > div.board	{
+	width:100px;
+	height:50px;
+	margin:0 auto;
+	margin-top:10px;
+	background-color:#FFF;
+	text-align:center;	
+}
+div.mainpanel > div.earth > div.line3 > div.penalty > div.board > img.tor {
+	width:50px;
+	height:50px;
+}
+div.mainpanel > div.earth > div.line3 > div.botpenalty {
+	width:185px;
+	height:100px;
+	margin:0 auto;
+	border-bottom-left-radius:3400px;
+	border-bottom-right-radius:3400px;
+}
+div.footer{
+	width:auto;
+	height:30px;
+}
